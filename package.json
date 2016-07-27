@@ -1,0 +1,39 @@
+{
+  "name": "mongodb-to-elasticsearch",
+  "version": "0.1.0",
+  "description": "MongoDB to Elasticsearch Bulk Data",
+  "homepage": "http://github.com/enginkartal/mongodb-to-elasticsearch",
+  "preferGlobal": true,
+  "author": {
+    "name": "enginkartal"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enginkartal/mongodb-to-elasticsearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enginkartal/mongodb-to-elasticsearch/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "elasticsearch": "^10.1.2",
+    "mongojs": "^2.3.0",
+    "JSONStream": "^1.0.7",
+    "progress": "^1.1.8"
+  },
+  "keywords": [
+    "elasticsearch",
+    "mongodb",
+    "bulk",
+    "data",
+    "export",
+    "dump",
+    "restore",
+    "migration",
+    "data",
+	"river"
+  ]
+}
