@@ -1,5 +1,7 @@
 # mongodb-to-elasticsearch
 
+[![NPM](https://nodei.co/npm/mongodb-to-elasticsearch.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mongodb-to-elasticsearch/)
+
 ## Installation
 
 ```bash
